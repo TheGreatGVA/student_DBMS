@@ -40,7 +40,7 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License.
+Need to create a license for this project.
 
 ## Contact
 For any issues or suggestions, feel free to open an issue on GitHub: [Student_DBMS Repository](https://github.com/TheGreatGVA/student_DBMS.git).

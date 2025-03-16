@@ -1,22 +1,47 @@
 # Student_DBMS
-Developed using python and sqlite3
 
-The project uses sqlite3 module as it provides a lightweight disk-based database that doesn’t require a separate server process and allows accessing the database using a nonstandard variant of the SQL query language.
+## Project Overview
+**Student_DBMS** is a simple database management system developed using Python and SQLite3. The project leverages SQLite3, a lightweight, disk-based database that does not require a separate server process, providing easy and efficient database management with a nonstandard variant of SQL query language.
 
-The project has the following features 
+## Features
+- **Create a Student Database File**
+- **Update Student Details**
+- **Fetch Student Details** by:
+  - Roll Number
+  - Last Name
+  - Admission Number
+- **Retrieve the Total Number of Students**
+- **Delete Student Details by Roll Number**
+- **Update Student Details by Roll Number**
 
-1. Creating a student database file
+## Installation
+### Prerequisites
+Ensure you have Python installed on your system. You can install SQLite3 if not already included with Python.
 
-2. Updating Student Details
+### Clone the Repository
+```bash
+git clone https://github.com/TheGreatGVA/student_DBMS.git
+cd student_DBMS
+```
 
-3. Fetching the Student Details by Roll Number
+## Usage
+1. Run the Python script:
+   ```bash
+   python student_dbms.py
+   ```
+2. Follow on-screen prompts to interact with the database.
 
-4. Fetching the Student Details by Last Name
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature-name`).
+3. Commit changes (`git commit -m "Added new feature"`).
+4. Push to the branch (`git push origin feature-name`).
+5. Open a pull request.
 
-5. Fetching the Student Details by Admission Number
+## License
+This project is licensed under the MIT License.
 
-6. Fetching the Total number of Students
+## Contact
+For any issues or suggestions, feel free to open an issue on GitHub: [Student_DBMS Repository](https://github.com/TheGreatGVA/student_DBMS.git).
 
-7. Deleting the Students Details by Roll Number
-
-8. Updating the Students Details by Roll Number
